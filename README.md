@@ -2,6 +2,11 @@
 Certifications are important, along with experience. And becoming certified in subjects related to software engineering means that I am serious about developing my skills in the IT field and am committed to lifelong learning.
 Please find my software engineering certifications below.
 
+- Claude Certified Architect - Professional
+- AWS Certified Solutions Architect - Professional
+- Microsoft Certified: Azure Solutions Architect Expert
+- Microsoft Certified: Azure AI Engineer Associate
+- Designing Microsoft Azure Infrastructure Solutions
 - TOGAF® 9 Foundation/Certified
 - The Open Group: TOGAF® Digital Enterprise Architecture Team Member 9.2
 - The Open Group Certified: DPBoK™ Foundation
